@@ -1,0 +1,10 @@
+constants.py
+constants
+venv
+venv2
+venv/
+venv2/
+*.pyc
+__pycache__/
+storage/
+data/
